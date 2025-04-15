@@ -6,6 +6,14 @@ A simple Java-based command-line quiz application where users can log in as eith
 
 All user and question data is managed using **JSON files**.
 
+## Technologies Used
+
+- **Java** (version 17)
+- **Gradle** (build system)
+- **JSON.simple** (for handling JSON files)
+- **IntelliJ IDEA** (IDE)
+- 
+
 ## Features
 
 - User login system using `users.json`
