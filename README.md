@@ -12,7 +12,7 @@ All user and question data is managed using **JSON files**.
 - **Gradle** (build system)
 - **JSON.simple** (for handling JSON files)
 - **IntelliJ IDEA** (IDE)
-- 
+
 
 ## Features
 
