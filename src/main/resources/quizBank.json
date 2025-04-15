@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing",
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What does SQA stand for?",
+    "option 1": "Software Quality Application",
+    "option 2": "System Quality Assurance",
+    "option 3": "Software Quality Assurance",
+    "option 4": "Software Query Application",
+    "answerkey": 3
+  },
+  {
+    "question": "Which is a static testing technique?",
+    "option 1": "Regression Testing",
+    "option 2": "Code Review",
+    "option 3": "Integration Testing",
+    "option 4": "System Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is done without executing code?",
+    "option 1": "Whitebox Testing",
+    "option 2": "Blackbox Testing",
+    "option 3": "Static Testing",
+    "option 4": "Dynamic Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following is a test design technique?",
+    "option 1": "Code Walkthrough",
+    "option 2": "Equivalence Partitioning",
+    "option 3": "Code Compilation",
+    "option 4": "Debugging",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing level validates interactions between integrated units?",
+    "option 1": "System Testing",
+    "option 2": "Unit Testing",
+    "option 3": "Integration Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing is focused on checking the interface between modules?",
+    "option 1": "System Testing",
+    "option 2": "Integration Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Performance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of these is not a level of testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Module Testing",
+    "option 3": "System Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the goal of regression testing?",
+    "option 1": "To verify new features",
+    "option 2": "To identify performance bottlenecks",
+    "option 3": "To ensure changes haven’t affected existing functionality",
+    "option 4": "To test boundary values",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following is black-box testing technique?",
+    "option 1": "Loop Testing",
+    "option 2": "Statement Coverage",
+    "option 3": "Decision Coverage",
+    "option 4": "Boundary Value Analysis",
+    "answerkey": 4
+  },
+  {
+    "question": "Which activity is part of the SQA process?",
+    "option 1": "Coding",
+    "option 2": "Defect Prevention",
+    "option 3": "Requirement Gathering",
+    "option 4": "Deployment",
+    "answerkey": 2
+  },
+  {
+    "question": "What does a test case normally contain?",
+    "option 1": "Only test data",
+    "option 2": "Only expected result",
+    "option 3": "Test steps, input, expected result",
+    "option 4": "Only input data",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing is usually done by end-users?",
+    "option 1": "Integration Testing",
+    "option 2": "Acceptance Testing",
+    "option 3": "System Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the purpose of smoke testing?",
+    "option 1": "To test security features",
+    "option 2": "To test basic functionality of the build",
+    "option 3": "To test the system thoroughly",
+    "option 4": "To test boundary conditions",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following best describes validation?",
+    "option 1": "Are we building the product right?",
+    "option 2": "Are we testing the software?",
+    "option 3": "Are we building the right product?",
+    "option 4": "Are we documenting the process?",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing ensures the software meets business requirements?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "Acceptance Testing",
+    "option 4": "Smoke Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Who typically performs unit testing?",
+    "option 1": "End-users",
+    "option 2": "QA Engineers",
+    "option 3": "Developers",
+    "option 4": "Project Managers",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following is NOT a test level?",
+    "option 1": "System Testing",
+    "option 2": "Component Testing",
+    "option 3": "Functional Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which type of testing is concerned with how fast a system responds?",
+    "option 1": "Usability Testing",
+    "option 2": "Performance Testing",
+    "option 3": "Regression Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What does V-model stand for in software testing?",
+    "option 1": "Verification and Validation Model",
+    "option 2": "Velocity Model",
+    "option 3": "Virtual Model",
+    "option 4": "Verification Model",
+    "answerkey": 1
+  },
+  {
+    "question": "Which of the following testing is performed first?",
+    "option 1": "System Testing",
+    "option 2": "Integration Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which technique uses flow charts or decision tables?",
+    "option 1": "Error Guessing",
+    "option 2": "Equivalence Partitioning",
+    "option 3": "Decision Table Testing",
+    "option 4": "Boundary Value Analysis",
+    "answerkey": 3
+  },
+  {
+    "question": "Which test type checks how easy it is to use the software?",
+    "option 1": "Reliability Testing",
+    "option 2": "Performance Testing",
+    "option 3": "Usability Testing",
+    "option 4": "Security Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which one is a type of non-functional testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Regression Testing",
+    "option 3": "Load Testing",
+    "option 4": "Integration Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the main purpose of using test data?",
+    "option 1": "To speed up coding",
+    "option 2": "To validate input and output",
+    "option 3": "To reduce bugs",
+    "option 4": "To ensure proper database access",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing focuses on internal logic of a program?",
+    "option 1": "Blackbox Testing",
+    "option 2": "Whitebox Testing",
+    "option 3": "Functional Testing",
+    "option 4": "System Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is an example of alpha testing?",
+    "option 1": "Testing by customer at customer site",
+    "option 2": "Testing by developers before release",
+    "option 3": "Testing by automation scripts",
+    "option 4": "Performance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Beta testing is done at?",
+    "option 1": "Developer site",
+    "option 2": "Client site",
+    "option 3": "Test lab",
+    "option 4": "Server room",
+    "answerkey": 2
+  },
+  {
+    "question": "Which activity is not part of SQA?",
+    "option 1": "Audit",
+    "option 2": "Review",
+    "option 3": "Coding",
+    "option 4": "Testing",
+    "answerkey": 3
+  }
+]
