@@ -88,12 +88,8 @@ dependencies {
 ## Video Demonstrations
 ### Admin Login
 Watch the video below to see how the **Admin** logs in and accesses the quiz system.
-<a href="https://youtu.be/EsrnJkhmPYg" target="_blank">
-  <img src="https://img.youtube.com/vi/EsrnJkhmPYg/0.jpg" alt="Admin Login Demonstration" width="200"/>
-</a>
+https://github.com/user-attachments/assets/7a89d9b3-f966-453e-9652-d6330cf0db9e
 
 ### Student Login
 Watch the video below to see how the **Student** logs in and accesses the quiz system.
-<a href="https://youtu.be/HyQ_S8HO2Mk" target="_blank">
-  <img src="https://img.youtube.com/vi/EsrnJkhmPYg/0.jpg" alt="Student Login Demonstration" width="200"/>
-</a>
+https://github.com/user-attachments/assets/c4570d64-320c-409b-9b6f-aeaca48b47cd
